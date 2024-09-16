@@ -1,0 +1,12 @@
+C:\Users\eleve\source\repos\corrections_tps_prog\corrections_tps_prog\bin\Debug\corrections_tps_prog.exe.config
+C:\Users\eleve\source\repos\corrections_tps_prog\corrections_tps_prog\bin\Debug\corrections_tps_prog.exe
+C:\Users\eleve\source\repos\corrections_tps_prog\corrections_tps_prog\bin\Debug\corrections_tps_prog.pdb
+C:\Users\eleve\source\repos\corrections_tps_prog\corrections_tps_prog\bin\Debug\corrections_tps_prog.xml
+C:\Users\eleve\source\repos\corrections_tps_prog\corrections_tps_prog\obj\Debug\corrections_tps_prog.vbproj.AssemblyReference.cache
+C:\Users\eleve\source\repos\corrections_tps_prog\corrections_tps_prog\obj\Debug\corrections_tps_prog.vbproj.SuggestedBindingRedirects.cache
+C:\Users\eleve\source\repos\corrections_tps_prog\corrections_tps_prog\obj\Debug\corrections_tps_prog.Resources.resources
+C:\Users\eleve\source\repos\corrections_tps_prog\corrections_tps_prog\obj\Debug\corrections_tps_prog.vbproj.GenerateResource.cache
+C:\Users\eleve\source\repos\corrections_tps_prog\corrections_tps_prog\obj\Debug\corrections_tps_prog.vbproj.CoreCompileInputs.cache
+C:\Users\eleve\source\repos\corrections_tps_prog\corrections_tps_prog\obj\Debug\corrections_tps_prog.exe
+C:\Users\eleve\source\repos\corrections_tps_prog\corrections_tps_prog\obj\Debug\corrections_tps_prog.xml
+C:\Users\eleve\source\repos\corrections_tps_prog\corrections_tps_prog\obj\Debug\corrections_tps_prog.pdb
