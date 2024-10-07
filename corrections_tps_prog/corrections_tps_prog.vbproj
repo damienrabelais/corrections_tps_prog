@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{C791D72A-9223-48C3-9EAF-5DA9B0AE36B1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>corrections_tps_prog.exercice92</StartupObject>
+    <StartupObject>corrections_tps_prog.exercice94</StartupObject>
     <RootNamespace>corrections_tps_prog</RootNamespace>
     <AssemblyName>corrections_tps_prog</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -75,6 +75,8 @@
     <Compile Include="exercice73G2.vb" />
     <Compile Include="exercice91.vb" />
     <Compile Include="exercice92.vb" />
+    <Compile Include="exercice93.vb" />
+    <Compile Include="exercice94.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
