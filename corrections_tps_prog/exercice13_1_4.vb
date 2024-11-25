@@ -1,11 +1,11 @@
 ﻿Module exercice13_1_4
     Sub Main()
         Dim Devises() As String = {"ATS", "BEF", "DEM", "ESP", "FRF", "IEP", "ITL", "FIM",
-                       "LUF", "NLG", "GRD", "SIT", "ATS", "PTE", "CYP", "MTL", "SKK"}
+                       "LUF", "NLG", "GRD", "SIT", "PTE", "CYP", "MTL", "SKK"}
         Dim Taux() As Double = {13.76, 40.33, 1.95, 166.38, 6.55, 0.78, 1936.27, 5.94,
                     40.33, 2.2, 340.75, 239.64, 13.76, 200.48, 0.58, 0.42, 30.12}
 
-        Const MAXDEVISES As Integer = 17 ' monnaies
+        Const MAXDEVISES As Integer = 16 ' monnaies
 
         Dim MontantEnEuros As Double
         Dim CodeDevise As String
