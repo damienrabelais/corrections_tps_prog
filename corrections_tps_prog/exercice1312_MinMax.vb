@@ -1,4 +1,4 @@
-﻿Module exercice1312
+﻿Module exercice1312_MinMax
     Sub MinMax(ByVal pTab() As Double)
         Dim leMax, leMin As Double
         Dim i As Integer

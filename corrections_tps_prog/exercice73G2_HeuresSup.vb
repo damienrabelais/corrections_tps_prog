@@ -1,4 +1,4 @@
-﻿Module exercice73G2
+﻿Module exercice73G2_HeuresSup
     Sub Main()
         Dim nombreDHeuresTravaillees, tauxHoraire, salaireHebdomadaire As Double
         Console.WriteLine("Nombre d'heures travaillees hebdomadaire ?")

@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{C791D72A-9223-48C3-9EAF-5DA9B0AE36B1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>corrections_tps_prog.exercice13_1_4</StartupObject>
+    <StartupObject>corrections_tps_prog.exercice151_ClientsCommandes</StartupObject>
     <RootNamespace>corrections_tps_prog</RootNamespace>
     <AssemblyName>corrections_tps_prog</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -69,21 +69,25 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Exercice111.vb" />
-    <Compile Include="exercice112.vb" />
-    <Compile Include="exercice113.vb" />
-    <Compile Include="exercice114.vb" />
-    <Compile Include="exercice13_1_4.vb" />
-    <Compile Include="exercice1311.vb" />
-    <Compile Include="exercice1312.vb" />
-    <Compile Include="exercice71G1.vb" />
-    <Compile Include="exercice71G2.vb" />
-    <Compile Include="exercice72G1.vb" />
-    <Compile Include="exercice73G2.vb" />
-    <Compile Include="exercice91.vb" />
-    <Compile Include="exercice92.vb" />
-    <Compile Include="exercice93.vb" />
-    <Compile Include="exercice94.vb" />
+    <Compile Include="Exercice111_PerimetresSurface.vb" />
+    <Compile Include="exercice112_Factorielle.vb" />
+    <Compile Include="exercice113_Relativite.vb" />
+    <Compile Include="exercice114_Triangle.vb" />
+    <Compile Include="exercice1313_ConversionBases2_8.vb" />
+    <Compile Include="exercice1314_DevisesEuro.vb" />
+    <Compile Include="exercice1311_TableauMois.vb" />
+    <Compile Include="exercice1312_MinMax.vb" />
+    <Compile Include="exercice132_InversionMatrice.vb" />
+    <Compile Include="exercice133_OccupationDesSalles.vb" />
+    <Compile Include="exercice151_ClientsCommandes.vb" />
+    <Compile Include="exercice71G1_MontantRemise.vb" />
+    <Compile Include="exercice71G2_MontantRemise.vb" />
+    <Compile Include="exercice72G1_CoutLocation.vb" />
+    <Compile Include="exercice73G2_HeuresSup.vb" />
+    <Compile Include="exercice91_MoyenneNotes.vb" />
+    <Compile Include="exercice92_MoyenneNotes.vb" />
+    <Compile Include="exercice93_NombresPairs.vb" />
+    <Compile Include="exercice94_Ventout.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -99,6 +103,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Test.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">

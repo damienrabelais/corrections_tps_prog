@@ -1,4 +1,4 @@
-﻿Module exercice94
+﻿Module exercice94_Ventout
     Sub Main()
         Const TAUXCOMMISSION As Double = 0.1
         Dim cARepresentant, ventesHTHebdo As Double

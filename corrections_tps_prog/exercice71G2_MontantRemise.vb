@@ -1,4 +1,4 @@
-﻿Module exercice71G2
+﻿Module exercice71G2_MontantRemise
 
     Sub main()
         Dim montant, remise, montantNet As Double

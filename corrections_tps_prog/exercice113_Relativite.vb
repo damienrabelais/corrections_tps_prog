@@ -1,4 +1,4 @@
-﻿Module exercice113
+﻿Module exercice113_Relativite
     Const C As Double = 300000 'Vitesse de la lumière (constante, approximation ici)
 
     Function DuréeSurTerre(ByVal pDurée As Double,

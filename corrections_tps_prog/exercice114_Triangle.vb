@@ -1,4 +1,4 @@
-﻿Module exercice114
+﻿Module exercice114_Triangle
     'Pour nbLignes = 5
     'Ligne 1 : 4b 1e  (5-1)b  (1*2-1)e
     'Ligne 2 : 3b 3e  (5-2)b  (2*2-1)e

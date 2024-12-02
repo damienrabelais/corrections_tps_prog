@@ -1,4 +1,4 @@
-﻿Module exercice72G1
+﻿Module exercice72G1_CoutLocation
     Sub main()
 
         Dim jours, distance As Integer

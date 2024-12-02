@@ -1,6 +1,6 @@
 ﻿Imports System.Net.Mail
 
-Module exercice1311
+Module exercice1311_TableauMois
 
 
     Sub main()

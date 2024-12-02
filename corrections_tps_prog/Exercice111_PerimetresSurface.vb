@@ -1,4 +1,4 @@
-﻿Module Exercice111
+﻿Module Exercice111_PerimetresSurface
 
     Function PérimètreCercle(ByVal pRayon As Double) As Double
         Dim périmètre As Double  'périmètre est une variable locale à la fonction
@@ -21,6 +21,7 @@
     End Function
 
     Sub Main() ' Programme principal
+
         Dim choix As Integer
         Dim rayonSaisi, longueurSaisie, largeurSaisie As Double
 

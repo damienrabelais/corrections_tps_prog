@@ -1,4 +1,4 @@
-﻿Module exercice112
+﻿Module exercice112_Factorielle
     Function Factorielle(ByVal pN As Integer) As Long
         Dim cumul As Long
         Dim i As Integer

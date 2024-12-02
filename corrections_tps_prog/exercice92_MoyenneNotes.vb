@@ -1,6 +1,6 @@
 ﻿Imports System.Linq.Expressions
 
-Module exercice92
+Module exercice92_MoyenneNotes
     Sub Main()
         Dim note, somme As Double
         Dim compteur As Integer

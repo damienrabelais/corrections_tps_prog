@@ -1,4 +1,4 @@
-﻿Module exercice91
+﻿Module exercice91_MoyenneNotes
     Sub Main()
         Dim note, somme, moyenne, pourcentage As Double
         Dim nbNotes, nbNotesSup10 As Integer

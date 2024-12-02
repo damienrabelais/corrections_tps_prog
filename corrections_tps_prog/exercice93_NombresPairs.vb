@@ -1,4 +1,4 @@
-﻿Module exercice93
+﻿Module exercice93_NombresPairs
     Sub Main()
         Dim n, i, nombre As Integer
 

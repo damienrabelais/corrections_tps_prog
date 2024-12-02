@@ -1,4 +1,4 @@
-﻿Module exercice13_1_4
+﻿Module exercice1314_DevisesEuro
     Sub Main()
         Dim devises() As String = {"ATS", "BEF", "DEM", "ESP", "FRF", "IEP", "ITL", "FIM",
                        "LUF", "NLG", "GRD", "SIT", "PTE", "CYP", "MTL", "SKK"}
