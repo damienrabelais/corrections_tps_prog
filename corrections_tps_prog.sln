@@ -7,7 +7,7 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "corrections_tps_prog", "cor
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "POOCompteur", "POOCompteur\POOCompteur.vbproj", "{5A91C6C9-2C47-450B-B37B-FDC078F51D28}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EnseignantEleve", "EnseignantEleve\EnseignantEleve.vbproj", "{4698558F-94BB-41B9-AA93-A28E21313524}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "POOEnseignantEleve", "POOEnseignantEleve\POOEnseignantEleve.vbproj", "{3C43927B-3ACD-4840-AD44-D734D314BB20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{5A91C6C9-2C47-450B-B37B-FDC078F51D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A91C6C9-2C47-450B-B37B-FDC078F51D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A91C6C9-2C47-450B-B37B-FDC078F51D28}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4698558F-94BB-41B9-AA93-A28E21313524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4698558F-94BB-41B9-AA93-A28E21313524}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4698558F-94BB-41B9-AA93-A28E21313524}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4698558F-94BB-41B9-AA93-A28E21313524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C43927B-3ACD-4840-AD44-D734D314BB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C43927B-3ACD-4840-AD44-D734D314BB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C43927B-3ACD-4840-AD44-D734D314BB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C43927B-3ACD-4840-AD44-D734D314BB20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

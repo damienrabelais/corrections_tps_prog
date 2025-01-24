@@ -1,0 +1,12 @@
+C:\Users\eleve\source\repos\corrections_tps_prog\POOEnseignantEleve\bin\Debug\POOEnseignantEleve.exe.config
+C:\Users\eleve\source\repos\corrections_tps_prog\POOEnseignantEleve\bin\Debug\POOEnseignantEleve.exe
+C:\Users\eleve\source\repos\corrections_tps_prog\POOEnseignantEleve\bin\Debug\POOEnseignantEleve.pdb
+C:\Users\eleve\source\repos\corrections_tps_prog\POOEnseignantEleve\bin\Debug\POOEnseignantEleve.xml
+C:\Users\eleve\source\repos\corrections_tps_prog\POOEnseignantEleve\obj\Debug\POOEnseignantEleve.vbproj.AssemblyReference.cache
+C:\Users\eleve\source\repos\corrections_tps_prog\POOEnseignantEleve\obj\Debug\POOEnseignantEleve.vbproj.SuggestedBindingRedirects.cache
+C:\Users\eleve\source\repos\corrections_tps_prog\POOEnseignantEleve\obj\Debug\POOEnseignantEleve.Resources.resources
+C:\Users\eleve\source\repos\corrections_tps_prog\POOEnseignantEleve\obj\Debug\POOEnseignantEleve.vbproj.GenerateResource.cache
+C:\Users\eleve\source\repos\corrections_tps_prog\POOEnseignantEleve\obj\Debug\POOEnseignantEleve.vbproj.CoreCompileInputs.cache
+C:\Users\eleve\source\repos\corrections_tps_prog\POOEnseignantEleve\obj\Debug\POOEnseignantEleve.exe
+C:\Users\eleve\source\repos\corrections_tps_prog\POOEnseignantEleve\obj\Debug\POOEnseignantEleve.xml
+C:\Users\eleve\source\repos\corrections_tps_prog\POOEnseignantEleve\obj\Debug\POOEnseignantEleve.pdb

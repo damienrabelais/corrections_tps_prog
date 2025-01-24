@@ -12,8 +12,6 @@
     Private indice As Integer
     Private nombreDHeures As Double 'nombre d'heures devant élèves
 
-
-
     Public Sub New(ByVal nouvNuméro As String, ByVal nouvNom As String,
      ByVal nouvPrenom As String, ByVal nouvAdresse As String,
      ByVal nouvNumTel As String, ByVal nouvDateNaiss As String,
@@ -27,8 +25,6 @@
         indice = nouvIndice
         nombreDHeures = nouvNombreDHeures
     End Sub
-
-
 
     Public Function GetNuméro() As String
         Return numéro
@@ -95,9 +91,8 @@
         Return nombreDHeures
     End Function
 
-
     Public Function SalaireMensuel() As Double
-        Return indice * nombreDHeures * VALEURINDICE
+        Return (nombreDHeures * indice * VALEURINDICE)
     End Function
 
     Public Overrides Function ToString() As String
@@ -108,5 +103,4 @@
           vbNewLine + "Indice : " + indice.ToString() +
           vbNewLine + "Nombre d'heures : " + nombreDHeures.ToString
     End Function
-
 End Class
