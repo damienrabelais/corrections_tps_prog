@@ -1,0 +1,6 @@
+C:\Users\eleve\source\repos\corrections_tps_prog\POOComplexe\bin\Debug\POOComplexe.exe
+C:\Users\eleve\source\repos\corrections_tps_prog\POOComplexe\bin\Debug\POOComplexe.pdb
+C:\Users\eleve\source\repos\corrections_tps_prog\POOComplexe\obj\Debug\POOComplexe.csproj.AssemblyReference.cache
+C:\Users\eleve\source\repos\corrections_tps_prog\POOComplexe\obj\Debug\POOComplexe.csproj.CoreCompileInputs.cache
+C:\Users\eleve\source\repos\corrections_tps_prog\POOComplexe\obj\Debug\POOComplexe.exe
+C:\Users\eleve\source\repos\corrections_tps_prog\POOComplexe\obj\Debug\POOComplexe.pdb
