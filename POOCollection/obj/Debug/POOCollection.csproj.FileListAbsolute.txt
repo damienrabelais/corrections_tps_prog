@@ -1,0 +1,6 @@
+C:\Users\eleve\source\repos\corrections_tps_prog\POOCollection\bin\Debug\POOCollection.exe
+C:\Users\eleve\source\repos\corrections_tps_prog\POOCollection\bin\Debug\POOCollection.pdb
+C:\Users\eleve\source\repos\corrections_tps_prog\POOCollection\obj\Debug\POOCollection.csproj.AssemblyReference.cache
+C:\Users\eleve\source\repos\corrections_tps_prog\POOCollection\obj\Debug\POOCollection.csproj.CoreCompileInputs.cache
+C:\Users\eleve\source\repos\corrections_tps_prog\POOCollection\obj\Debug\POOCollection.exe
+C:\Users\eleve\source\repos\corrections_tps_prog\POOCollection\obj\Debug\POOCollection.pdb
