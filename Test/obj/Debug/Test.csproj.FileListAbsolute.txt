@@ -1,0 +1,6 @@
+C:\Users\eleve\source\repos\corrections_tps_prog\Test\bin\Debug\Test.exe
+C:\Users\eleve\source\repos\corrections_tps_prog\Test\bin\Debug\Test.pdb
+C:\Users\eleve\source\repos\corrections_tps_prog\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\eleve\source\repos\corrections_tps_prog\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\eleve\source\repos\corrections_tps_prog\Test\obj\Debug\Test.exe
+C:\Users\eleve\source\repos\corrections_tps_prog\Test\obj\Debug\Test.pdb

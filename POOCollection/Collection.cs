@@ -37,6 +37,7 @@ namespace POOCollection
             } // On a pas trouvé
         }
 
+       
         public bool Ajouter(string cle, object valeur)
         {
             if (Existe(cle) | positionLibre > MAX) // on aurait pu écrire this.Existe(cle)

@@ -1,0 +1,6 @@
+C:\Users\eleve\source\repos\corrections_tps_prog\POOGestionCatalogueCollections\obj\Debug\POOGestionCatalogueCollections.csproj.AssemblyReference.cache
+C:\Users\eleve\source\repos\corrections_tps_prog\POOGestionCatalogueCollections\obj\Debug\POOGestionCatalogueCollections.csproj.CoreCompileInputs.cache
+C:\Users\eleve\source\repos\corrections_tps_prog\POOGestionCatalogueCollections\bin\Debug\POOGestionCatalogueCollections.exe
+C:\Users\eleve\source\repos\corrections_tps_prog\POOGestionCatalogueCollections\bin\Debug\POOGestionCatalogueCollections.pdb
+C:\Users\eleve\source\repos\corrections_tps_prog\POOGestionCatalogueCollections\obj\Debug\POOGestionCatalogueCollections.exe
+C:\Users\eleve\source\repos\corrections_tps_prog\POOGestionCatalogueCollections\obj\Debug\POOGestionCatalogueCollections.pdb

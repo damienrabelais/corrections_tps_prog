@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POOComplexe", "POOComplexe\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POOCollection", "POOCollection\POOCollection.csproj", "{B850BE5C-0E55-430F-907A-F063ACAAC82A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{C71C9EE0-2914-43BC-956E-ECFD3896D1E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POOGestionCatalogueCollections", "POOGestionCatalogueCollections\POOGestionCatalogueCollections.csproj", "{A996E707-16B0-41AF-8BD8-2821449EBE7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{B850BE5C-0E55-430F-907A-F063ACAAC82A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B850BE5C-0E55-430F-907A-F063ACAAC82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B850BE5C-0E55-430F-907A-F063ACAAC82A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C71C9EE0-2914-43BC-956E-ECFD3896D1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71C9EE0-2914-43BC-956E-ECFD3896D1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71C9EE0-2914-43BC-956E-ECFD3896D1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71C9EE0-2914-43BC-956E-ECFD3896D1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A996E707-16B0-41AF-8BD8-2821449EBE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A996E707-16B0-41AF-8BD8-2821449EBE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A996E707-16B0-41AF-8BD8-2821449EBE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A996E707-16B0-41AF-8BD8-2821449EBE7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
