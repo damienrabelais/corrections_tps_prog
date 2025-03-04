@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace Test
 {
@@ -8,6 +9,11 @@ namespace Test
     {
         static void Main(string[] args)
         {
+
+
+    
+
+
             Compte c1; // c1 pointera vers un objet Compte, avant instanciation valeur = null
 
 

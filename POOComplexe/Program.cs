@@ -35,6 +35,16 @@ namespace POOComplexe
 
         public static void Main()
         {
+
+                     
+            // TEST COMPARER MODULE //
+            Complexe a, b;
+            a = new Complexe(10, 10);
+            b = new Complexe(50, 50);
+            Console.WriteLine("Le nombre ayant le plus grand module est " + a.ComparerModule(b).ToString());
+            ////////////////////////////////
+
+
             // Notez que pour l'affichage des résultats  la chose est un peu rustique
             // c'est le prix à payer de la concision
             int choixSaisi, positionLibre = 0, i;

@@ -55,7 +55,17 @@ namespace POOComplexe
                 return Math.Sqrt(Math.Pow(x, 2) + Math.Pow(y, 2));
             }
 
-            public override string ToString()
+        public Complexe ComparerModule(Complexe nombre)
+        {
+            if (this.GetModule() >= nombre.GetModule())
+                // en cas d'égalité on retourne objet 'courant'
+                return this;
+            else
+                return nombre;
+        }
+
+
+        public override string ToString()
             {
                 return "\nPartie Reelle : " + x.ToString() + "\nPartie Imaginaire : " + y.ToString();
             }

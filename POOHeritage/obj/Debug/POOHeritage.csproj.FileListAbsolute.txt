@@ -1,0 +1,6 @@
+C:\Users\eleve\source\repos\corrections_tps_prog\POOHeritage\bin\Debug\POOHeritage.exe
+C:\Users\eleve\source\repos\corrections_tps_prog\POOHeritage\bin\Debug\POOHeritage.pdb
+C:\Users\eleve\source\repos\corrections_tps_prog\POOHeritage\obj\Debug\POOHeritage.csproj.AssemblyReference.cache
+C:\Users\eleve\source\repos\corrections_tps_prog\POOHeritage\obj\Debug\POOHeritage.csproj.CoreCompileInputs.cache
+C:\Users\eleve\source\repos\corrections_tps_prog\POOHeritage\obj\Debug\POOHeritage.exe
+C:\Users\eleve\source\repos\corrections_tps_prog\POOHeritage\obj\Debug\POOHeritage.pdb
