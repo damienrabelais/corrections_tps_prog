@@ -240,7 +240,6 @@ namespace POOADO.Net
 
                             break;
                         }
-
                     case 5: // 5. Quitter
                         {
                             Console.WriteLine("Au revoir.");
